@@ -259,10 +259,10 @@ attributed to one of the two.
 - **This is my second attempt at this problem set.** I took a first version all
   the way to a live URL, then found I had misread the brief and rebuilt from
   nothing. The `NAMES ARE FIXED` guardrail came from that attempt.
-- **The rebuild took about 40 minutes end to end**, against roughly three hours
-  for the first attempt. Nothing about my ability to read code changed in
-  between. What changed is that I already knew the click path and already had a
-  prompt structure to fill in.
+- **The rebuild took a little over 20 minutes end to end**, against roughly three
+  hours for the first attempt. Nothing about my ability to read code changed in
+  between. What changed is that I already knew the click path, already had a
+  prompt structure to fill in, and brought more of the specification myself.
 - **I opened the Code tab and did not read it.** A full application written
   while I typed four messages; lines of code read by me: zero. That ratio is the
   honest description of what I was able to judge.
