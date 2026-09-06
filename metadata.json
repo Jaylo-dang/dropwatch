@@ -1,0 +1,6 @@
+{
+  "name": "DropWatch",
+  "description": "Keep concert ticket on-sale drop moments for followed artists in one place and never miss a drop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
